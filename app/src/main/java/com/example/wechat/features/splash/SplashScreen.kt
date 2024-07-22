@@ -1,4 +1,4 @@
-package com.example.wechat.feature.splash
+package com.example.wechat.features.splash
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
